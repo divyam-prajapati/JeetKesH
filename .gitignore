@@ -1,2 +1,4 @@
 config.yml
 *.session
+*.session-journal
+/pycache/*
