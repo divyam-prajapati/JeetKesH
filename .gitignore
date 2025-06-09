@@ -1,4 +1,6 @@
 config.yml
 *.session
+temp_auto_push.bat
 *.session-journal
-/pycache/*
+/pycache/*.gitignore
+temp_interactive_push.bat
